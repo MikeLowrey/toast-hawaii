@@ -21,3 +21,5 @@ t.makeToast({
 ```
 <div class="fixed inset-x-0 top-0 z-40  " id="toast-hawaii"></div>
 ```
+You can find an example / demo here:
+https://demos.seotheater.de/254/
