@@ -19,7 +19,7 @@ t.makeToast({
 **Don't forget to include in your HTML the Toast Container.**
 
 ```
-<div class="fixed inset-x-0 top-0 z-40  " id="toast-hawaii"></div>
+<div class="fixed inset-x-0 top-0 z-40 pointer-events-none" id="toast-hawaii"></div>
 ```
 You can find an example / demo here:
 https://demos.seotheater.de/254/
