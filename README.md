@@ -14,8 +14,9 @@ t.makeToast({
   msg: 'It is allways good to be polite!',
   style: 'success'
 });
+```
 
-Don't forget to include in your HTML the Toast Container. 
+**Don't forget to include in your HTML the Toast Container. **
 ```
 <div class="fixed inset-x-0 top-0 z-40  " id="toast-hawaii"></div>
 ```
